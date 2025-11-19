@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE= isaac salazar jacamo.
+CORREO=i66816781@gmail.com 
+MATERIAS=programacion 10
